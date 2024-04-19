@@ -1,0 +1,18 @@
+# OS generated files
+.DS_Store
+
+# Compiled files
+*.class
+*.pyc
+*.pyo
+
+# Package management
+__pycache__
+*.egg-info
+
+# Logs and temporary files
+*.log
+tmp
+
+# Ignore conf.py file
+config.py
